@@ -1,8 +1,17 @@
-### Hi there this is Saquib Khan👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?width=800&height=70&center=true&size=37&lines=Hi+there,++Buddy+👋;This+is+Saquib+Khan++🙋🏻‍♂️;Welcome+To+My+Github+Profile++😊)](https://git.io/typing-svg)
 
-# 💫 About Me:
-I'm currently learning Flutter.<br><br>
-My Github is all about App Development.<br><br>
+<p align=center><strong> Gratified to see you here !! ✨ </strong></p>
+
+![Profile views](https://gpvc.arturio.dev/Osamashaikh90)
+
+
+- 👋 Hey!, I’m Saquib Khan <br>
+- 👀 I’m interested in flutter development 📱.. <br>
+- 🌱 I’m currently learning Flutter 💫 <br>
+- 💞️ I’m looking to collaborate with flutter developers .. <br>
+- 📫 How to reach me **ksaquib981@gmail.com**:
+- 😶‍🌫️ Flutter developer soon ✨.. <br>
+<br>
 
  Building multi-platform applications for Android and iOS using the Flutter development framework of Google. Writing clear and reader-friendly code using tools like Dart. Documenting the entire usage process in detail for straightforward utilization and upgrading in the future.<br><br>
 
