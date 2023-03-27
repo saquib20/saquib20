@@ -1,7 +1,9 @@
 ### Hi there this is Saquib Khan👋
 
 # 💫 About Me:
-I'm currently learning Flutter Development.<br><br>
+I'm currently learning Flutter.<br><br>
+My Github is all about App Development.<br><br>
+
  Building multi-platform applications for Android and iOS using the Flutter development framework of Google. Writing clear and reader-friendly code using tools like Dart. Documenting the entire usage process in detail for straightforward utilization and upgrading in the future.<br><br>
 
 
