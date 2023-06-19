@@ -2,7 +2,7 @@
 
 <p align=center><strong> Gratified to see you here !! ✨ </strong></p>
 
-![Profile views](https://gpvc.arturio.dev/Osamashaikh90)
+
 
 
 - 👋 Hey!, I’m Saquib Khan <br>
