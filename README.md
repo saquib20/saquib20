@@ -9,7 +9,7 @@
 - 👀 I’m interested in flutter development 📱.. <br>
 - 🌱 I’m currently learning Flutter 💫 <br>
 - 💞️ I’m looking to collaborate with flutter developers .. <br>
-- 📫 How to reach me **ksaquib981@gmail.com**:
+- 📫 How to reach me **ksaquib237@gmail.com**:
 - 😶‍🌫️ Flutter developer soon ✨.. <br>
 <br>
 
